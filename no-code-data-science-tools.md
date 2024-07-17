@@ -1,13 +1,9 @@
 8 powerful no-code data science tools in a single frame.
-.
-.
+
 The below visual depicts 8 powerful (and my favorite) no-code tools for data science tasks.
+(found somewhere in linkedin)
 
 They automate many redundant steps in data science projects and help you perform data science tasks without any code.
-
---
-👉 Get a Free Data Science PDF (550+ pages) with 320+ posts by subscribing to my daily newsletter today: https://lnkd.in/gzfJWHmu
---
 
 1) Gigasheet:
 - Browser-based no-code tool to analyze data at scale.
@@ -55,9 +51,3 @@ They automate many redundant steps in data science projects and help you perform
 - Works in a Jupyter notebook
 - Covers info about missing values, data statistics, correlation, data interactions, etc.
 - Get started: https://lnkd.in/gugK9WbK
-
---
-👉 Get a Free Data Science PDF (550+ pages) with 320+ posts by subscribing to my daily newsletter today: https://lnkd.in/gzfJWHmu
---
-
-👉 Over to you: Which cool no-code tools did I miss?
